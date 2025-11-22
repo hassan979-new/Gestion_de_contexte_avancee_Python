@@ -1,0 +1,8 @@
+[2025-11-22 21:02:02.957399] Debut de batch
+[2025-11-22 21:02:02.958365] Traitement : Operation5, ParamE, NotANumber
+[2025-11-22 21:02:02.958418] Fin du batch
+[2025-11-22 21:02:46.532684] Debut de batch
+[2025-11-22 21:02:46.533054] Traitement : Operation5, 
+[2025-11-22 21:02:46.533202] Traitement : ParamE, 
+[2025-11-22 21:02:46.533352] Traitement : NotANumber, 
+[2025-11-22 21:02:46.533385] Fin du batch
