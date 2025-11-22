@@ -96,10 +96,27 @@ Programme principal
 ## 🖥️ Example Execution
 
 ### Exercice1 :
-
+##### partie1 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/c6e5b412-75a7-4672-b48b-7a7dfc78dc76" />
+##### partie2 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/4a8a32cd-e707-42f5-be10-090c7bf48f6f" />
+##### partie3 :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/fcf629e8-cf0d-493c-b102-31d1293e9d83" />
+##### a,b,c.txt :
+- <img width="480" height="171" alt="image" src="https://github.com/user-attachments/assets/c3dcb19a-0a96-4c3c-a676-9d1fb2b0c9fe" />
 ### Exercice2 : 
-
+##### output :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/0ac4e24c-4b19-47eb-bd19-5970e763c9ef" />
+##### log.txt :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/dd89b74b-f473-46a1-bcfa-4d889d08904d" />
 ### Exercice3 :
+##### main :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a5dd803a-e0cf-4cdb-a5a6-598e5c22d3d2" />
+##### fichier.csv :
+- <img width="480" height="166" alt="image" src="https://github.com/user-attachments/assets/9685348b-0c94-4d1d-ad3f-8beedaee07eb" />
+##### journal.log
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/ad8799d1-9187-46a1-995b-d485ea86e834" />
+
 ## 💡 Concepts Practiced
 
 - tiliser les context managers pour gérer automatiquement les ressources (fichiers, connexions)
